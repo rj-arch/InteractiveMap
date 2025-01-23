@@ -29,6 +29,10 @@ Studi menggunakan NYC Taxi Data menunjukkan bahwa:
 - Bandara JFK dan LaGuardia memiliki frekuensi penjemputan dan pengantaran yang sangat tinggi, terutama pada pagi dan malam hari.
 - Times Square dan kawasan bisnis Midtown Manhattan adalah hotspot penjemputan selama jam sibuk pagi (07.00-09.00) dan malam (17.00-19.00).
 
+Berikut adalah preview dari peta interaktif:
+
+<img src="https://github.com/rj-arch/InteractiveMap/blob/main/images/Frekuensi%20Penumpang.png" alt="Preview Peta" height="600" width="600">
+
 **Data format .parquet**:
 
 Format data dari NYC data berupa data .parquet, yaitu berupa format file kolumnar yang digunakan untuk menyimpan data dalam format terkompresi dan efisien, sering digunakan dalam lingkungan big data dan analitik. Format ini dioptimalkan untuk pembacaan dan penulisan data secara cepat dan efisien, dan dirancang untuk bekerja dengan berbagai alat dan ekosistem yang terkait dengan data besar, seperti Apache Hadoop, Apache Spark, dan Apache Drill.
